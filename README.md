@@ -239,4 +239,4 @@ This repository serves as the official landing page for CDex. The software is di
 **Get the most recent version of CDex today!**
 
 ---
-**Last updated:** 2026-09-15 14:01:54 UTC
+**Last updated:** 2026-09-15 18:37:03 UTC
